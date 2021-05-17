@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/jivaandanlogo.png": "6ac345e1cbc298593255f3b88e00fe0b",
 "assets/logo_save%201.svg": "278960aafe1e6c2944e591590c08a31b",
-"assets/NOTICES": "9e91909bddd0a698358ed7f29ef7e1a7",
+"assets/NOTICES": "bf7a44eafe6d70618e8296481b7ab90b",
 "assets/oxygen-cylinder.svg": "1850aa2ae3d2a5e66074b08b8567c77b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
@@ -22,9 +22,9 @@ const RESOURCES = {
 "favicon.ico": "0cf8b27d1ad1091ccc8c3891b716f6cf",
 "icons/Icon-192.png": "a393839a7895e96bec597dfaf77331ed",
 "icons/Icon-512.png": "9d5bcc374fc44d330bff190f8252996a",
-"index.html": "858412185b955ae8133ead89ab72ee0d",
-"/": "858412185b955ae8133ead89ab72ee0d",
-"main.dart.js": "14a9324c2ce3461d85a37f5f0f529b68",
+"index.html": "93b563f31a6e986748d2731dbaa36b55",
+"/": "93b563f31a6e986748d2731dbaa36b55",
+"main.dart.js": "fa27b5a320b9b4a37a0b92aff5e66ed6",
 "manifest.json": "7d56e762261bceade298c9f0af74f2b2",
 "version.json": "6e7a74cf82463ff0ece42198fb8d4c1e"
 };
